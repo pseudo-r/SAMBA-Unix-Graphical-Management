@@ -35,12 +35,12 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
-<img src="https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/6.png?raw=true" width="500" />
-<img src="https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/1.png?raw=true" width="500" />
-<img src="https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/2.png?raw=true" width="500" />
-<img src="https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/3.png?raw=true" width="500" />
-<img src="https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/4.png?raw=true" width="500" />
-<img src="https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/5.png?raw=true" width="500" />
+<img src="https://github.com/pseudo-r/SAMBA-Unix-Graphical-Management/blob/main/screenshot/6.png?raw=true" width="500" />
+<img src="https://github.com/pseudo-r/SAMBA-Unix-Graphical-Management/blob/main/screenshot/1.png?raw=true" width="500" />
+<img src="https://github.com/pseudo-r/SAMBA-Unix-Graphical-Management/blob/main/screenshot/2.png?raw=true" width="500" />
+<img src="https://github.com/pseudo-r/SAMBA-Unix-Graphical-Management/blob/main/screenshot/3.png?raw=true" width="500" />
+<img src="https://github.com/pseudo-r/SAMBA-Unix-Graphical-Management/blob/main/screenshot/4.png?raw=true" width="500" />
+<img src="https://github.com/pseudo-r/SAMBA-Unix-Graphical-Management/blob/main/screenshot/5.png?raw=true" width="500" />
 
 <br />
 
