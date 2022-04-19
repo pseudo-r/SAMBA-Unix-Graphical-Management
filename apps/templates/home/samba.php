@@ -207,7 +207,7 @@ z-index: 99999999999999;
 {% global_variable  as global_variable %}
 
 <script type="text/javascript">
-    const option_value = '{{global_variable.8|safe}}';
+    const option_value = {{global_variable.8|safe}};
     const format = /[`!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?~]/;
     const csrftoken = '{{ csrf_token|safe }}';
     const html = '<select id="username" class="js-example-placeholder-single js-states form-control username"  data-placeholder="Select a username"  style="width: 100%;">'+
